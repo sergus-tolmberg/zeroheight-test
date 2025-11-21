@@ -59,7 +59,7 @@
     "Divider": {
       "Accent": {
         "$type": "color",
-        "$value": "{Neutral.Neutral-22}"
+        "$value": "{Neutral.Neutral-20}"
       },
       "Muted": {
         "$type": "color",
