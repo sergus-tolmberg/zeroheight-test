@@ -1,0 +1,27 @@
+{
+  "content": {
+    "Body": {
+      "Font Family": "Inter",
+      "Font Style Italic": "Italic"
+    },
+    "Heading": {
+      "Font Family": "Inter"
+    },
+    "Label": {
+      "Font Family": "Inter"
+    },
+    "Subheading": {
+      "Font Family": "Inter"
+    },
+    "Subtitle": {
+      "Font Family": "Inter"
+    },
+    "Title Hero": {
+      "Font (Accent)": "Shentox Qliro",
+      "Font (Base)": "Inter"
+    },
+    "Title Page": {
+      "Font Family": "Inter"
+    }
+  }
+}
