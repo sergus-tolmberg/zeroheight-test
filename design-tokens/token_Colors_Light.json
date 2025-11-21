@@ -1,0 +1,1514 @@
+{
+  "Brand": {
+    "Brand-0": {
+      "$type": "color",
+      "$value": "#ffffff",
+      "$description": "Brand color scale - step 0"
+    },
+    "Brand-10": {
+      "$type": "color",
+      "$value": "#f3fffa",
+      "$description": "Brand color scale - step 10"
+    },
+    "Brand-100": {
+      "$type": "color",
+      "$value": "#000000",
+      "$description": "Brand color scale - step 100"
+    },
+    "Brand-12": {
+      "$type": "color",
+      "$value": "#edfff8",
+      "$description": "Brand color scale - step 12"
+    },
+    "Brand-14": {
+      "$type": "color",
+      "$value": "#e6fff5",
+      "$description": "Brand color scale - step 14"
+    },
+    "Brand-16": {
+      "$type": "color",
+      "$value": "#dffff2",
+      "$description": "Brand color scale - step 16"
+    },
+    "Brand-18": {
+      "$type": "color",
+      "$value": "#d6ffee",
+      "$description": "Brand color scale - step 18"
+    },
+    "Brand-2": {
+      "$type": "color",
+      "$value": "#ffffff",
+      "$description": "Brand color scale - step 2"
+    },
+    "Brand-20": {
+      "$type": "color",
+      "$value": "#cbffea",
+      "$description": "Brand color scale - step 20"
+    },
+    "Brand-22": {
+      "$type": "color",
+      "$value": "#c0ffe6",
+      "$description": "Brand color scale - step 22"
+    },
+    "Brand-24": {
+      "$type": "color",
+      "$value": "#b2ffe1",
+      "$description": "Brand color scale - step 24"
+    },
+    "Brand-27": {
+      "$type": "color",
+      "$value": "#a4ffdd",
+      "$description": "Brand color scale - step 27"
+    },
+    "Brand-29": {
+      "$type": "color",
+      "$value": "#97ffd8",
+      "$description": "Brand color scale - step 29"
+    },
+    "Brand-31": {
+      "$type": "color",
+      "$value": "#89ffd4",
+      "$description": "Brand color scale - step 31"
+    },
+    "Brand-33": {
+      "$type": "color",
+      "$value": "#7cffd1",
+      "$description": "Brand color scale - step 33"
+    },
+    "Brand-35": {
+      "$type": "color",
+      "$value": "#70ffce",
+      "$description": "Brand color scale - step 35"
+    },
+    "Brand-37": {
+      "$type": "color",
+      "$value": "#64ffcb",
+      "$description": "Brand color scale - step 37"
+    },
+    "Brand-39": {
+      "$type": "color",
+      "$value": "#58ffc9",
+      "$description": "Brand color scale - step 39"
+    },
+    "Brand-4": {
+      "$type": "color",
+      "$value": "#fdfffe",
+      "$description": "Brand color scale - step 4"
+    },
+    "Brand-41": {
+      "$type": "color",
+      "$value": "#4effc7",
+      "$description": "Brand color scale - step 41"
+    },
+    "Brand-43": {
+      "$type": "color",
+      "$value": "#45ffc6",
+      "$description": "Brand color scale - step 43"
+    },
+    "Brand-45": {
+      "$type": "color",
+      "$value": "#3dffc5",
+      "$description": "Brand color scale - step 45"
+    },
+    "Brand-47": {
+      "$type": "color",
+      "$value": "#38ffc4",
+      "$description": "Brand color scale - step 47"
+    },
+    "Brand-49": {
+      "$type": "color",
+      "$value": "#36ffc4",
+      "$description": "Brand color scale - step 49 (base color)"
+    },
+    "Brand-51": {
+      "$type": "color",
+      "$value": "#36fec3",
+      "$description": "Brand color scale - step 51"
+    },
+    "Brand-53": {
+      "$type": "color",
+      "$value": "#36fbc1",
+      "$description": "Brand color scale - step 53"
+    },
+    "Brand-55": {
+      "$type": "color",
+      "$value": "#36f7be",
+      "$description": "Brand color scale - step 55"
+    },
+    "Brand-57": {
+      "$type": "color",
+      "$value": "#36f0b9",
+      "$description": "Brand color scale - step 57"
+    },
+    "Brand-59": {
+      "$type": "color",
+      "$value": "#36e8b3",
+      "$description": "Brand color scale - step 59"
+    },
+    "Brand-6": {
+      "$type": "color",
+      "$value": "#fbfffd",
+      "$description": "Brand color scale - step 6"
+    },
+    "Brand-61": {
+      "$type": "color",
+      "$value": "#35deab",
+      "$description": "Brand color scale - step 61"
+    },
+    "Brand-63": {
+      "$type": "color",
+      "$value": "#35d2a2",
+      "$description": "Brand color scale - step 63"
+    },
+    "Brand-65": {
+      "$type": "color",
+      "$value": "#34c598",
+      "$description": "Brand color scale - step 65"
+    },
+    "Brand-67": {
+      "$type": "color",
+      "$value": "#32b68d",
+      "$description": "Brand color scale - step 67"
+    },
+    "Brand-69": {
+      "$type": "color",
+      "$value": "#31a681",
+      "$description": "Brand color scale - step 69"
+    },
+    "Brand-71": {
+      "$type": "color",
+      "$value": "#2e9473",
+      "$description": "Brand color scale - step 71"
+    },
+    "Brand-73": {
+      "$type": "color",
+      "$value": "#2b8165",
+      "$description": "Brand color scale - step 73"
+    },
+    "Brand-76": {
+      "$type": "color",
+      "$value": "#286d56",
+      "$description": "Brand color scale - step 76"
+    },
+    "Brand-78": {
+      "$type": "color",
+      "$value": "#245c48",
+      "$description": "Brand color scale - step 78"
+    },
+    "Brand-8": {
+      "$type": "color",
+      "$value": "#f7fffc",
+      "$description": "Brand color scale - step 8"
+    },
+    "Brand-80": {
+      "$type": "color",
+      "$value": "#204c3c",
+      "$description": "Brand color scale - step 80"
+    },
+    "Brand-82": {
+      "$type": "color",
+      "$value": "#1c3e31",
+      "$description": "Brand color scale - step 82"
+    },
+    "Brand-84": {
+      "$type": "color",
+      "$value": "#193228",
+      "$description": "Brand color scale - step 84"
+    },
+    "Brand-86": {
+      "$type": "color",
+      "$value": "#152720",
+      "$description": "Brand color scale - step 86"
+    },
+    "Brand-88": {
+      "$type": "color",
+      "$value": "#121f1a",
+      "$description": "Brand color scale - step 88"
+    },
+    "Brand-90": {
+      "$type": "color",
+      "$value": "#0e1814",
+      "$description": "Brand color scale - step 90"
+    },
+    "Brand-92": {
+      "$type": "color",
+      "$value": "#0a110e",
+      "$description": "Brand color scale - step 92"
+    },
+    "Brand-94": {
+      "$type": "color",
+      "$value": "#050b08",
+      "$description": "Brand color scale - step 94"
+    },
+    "Brand-96": {
+      "$type": "color",
+      "$value": "#020504",
+      "$description": "Brand color scale - step 96"
+    },
+    "Brand-98": {
+      "$type": "color",
+      "$value": "#010101",
+      "$description": "Brand color scale - step 98"
+    }
+  },
+  "Danger": {
+    "Danger-0": {
+      "$type": "color",
+      "$value": "#ffffff",
+      "$description": "Danger color scale - step 0"
+    },
+    "Danger-10": {
+      "$type": "color",
+      "$value": "#ffefeb",
+      "$description": "Danger color scale - step 10"
+    },
+    "Danger-100": {
+      "$type": "color",
+      "$value": "#000000",
+      "$description": "Danger color scale - step 100"
+    },
+    "Danger-12": {
+      "$type": "color",
+      "$value": "#ffe8e2",
+      "$description": "Danger color scale - step 12"
+    },
+    "Danger-14": {
+      "$type": "color",
+      "$value": "#ffe0d7",
+      "$description": "Danger color scale - step 14"
+    },
+    "Danger-16": {
+      "$type": "color",
+      "$value": "#ffd6cb",
+      "$description": "Danger color scale - step 16"
+    },
+    "Danger-18": {
+      "$type": "color",
+      "$value": "#ffcbbe",
+      "$description": "Danger color scale - step 18"
+    },
+    "Danger-2": {
+      "$type": "color",
+      "$value": "#fffefe",
+      "$description": "Danger color scale - step 2"
+    },
+    "Danger-20": {
+      "$type": "color",
+      "$value": "#ffbfaf",
+      "$description": "Danger color scale - step 20"
+    },
+    "Danger-22": {
+      "$type": "color",
+      "$value": "#ffb19f",
+      "$description": "Danger color scale - step 22"
+    },
+    "Danger-24": {
+      "$type": "color",
+      "$value": "#ffa28d",
+      "$description": "Danger color scale - step 24"
+    },
+    "Danger-27": {
+      "$type": "color",
+      "$value": "#ff927c",
+      "$description": "Danger color scale - step 27"
+    },
+    "Danger-29": {
+      "$type": "color",
+      "$value": "#ff846d",
+      "$description": "Danger color scale - step 29"
+    },
+    "Danger-31": {
+      "$type": "color",
+      "$value": "#ff765f",
+      "$description": "Danger color scale - step 31"
+    },
+    "Danger-33": {
+      "$type": "color",
+      "$value": "#ff6953",
+      "$description": "Danger color scale - step 33"
+    },
+    "Danger-35": {
+      "$type": "color",
+      "$value": "#fe5d48",
+      "$description": "Danger color scale - step 35"
+    },
+    "Danger-37": {
+      "$type": "color",
+      "$value": "#fb523f",
+      "$description": "Danger color scale - step 37"
+    },
+    "Danger-39": {
+      "$type": "color",
+      "$value": "#f94837",
+      "$description": "Danger color scale - step 39"
+    },
+    "Danger-4": {
+      "$type": "color",
+      "$value": "#fffcfc",
+      "$description": "Danger color scale - step 4"
+    },
+    "Danger-41": {
+      "$type": "color",
+      "$value": "#f73f31",
+      "$description": "Danger color scale - step 41"
+    },
+    "Danger-43": {
+      "$type": "color",
+      "$value": "#f6372c",
+      "$description": "Danger color scale - step 43"
+    },
+    "Danger-45": {
+      "$type": "color",
+      "$value": "#f53128",
+      "$description": "Danger color scale - step 45"
+    },
+    "Danger-47": {
+      "$type": "color",
+      "$value": "#f42d26",
+      "$description": "Danger color scale - step 47"
+    },
+    "Danger-49": {
+      "$type": "color",
+      "$value": "#f42c25",
+      "$description": "Danger color scale - step 49 (base color)"
+    },
+    "Danger-51": {
+      "$type": "color",
+      "$value": "#f32c25",
+      "$description": "Danger color scale - step 51"
+    },
+    "Danger-53": {
+      "$type": "color",
+      "$value": "#f12c25",
+      "$description": "Danger color scale - step 53"
+    },
+    "Danger-55": {
+      "$type": "color",
+      "$value": "#ec2c24",
+      "$description": "Danger color scale - step 55"
+    },
+    "Danger-57": {
+      "$type": "color",
+      "$value": "#e62c24",
+      "$description": "Danger color scale - step 57"
+    },
+    "Danger-59": {
+      "$type": "color",
+      "$value": "#df2b23",
+      "$description": "Danger color scale - step 59"
+    },
+    "Danger-6": {
+      "$type": "color",
+      "$value": "#fff9f8",
+      "$description": "Danger color scale - step 6"
+    },
+    "Danger-61": {
+      "$type": "color",
+      "$value": "#d52b22",
+      "$description": "Danger color scale - step 61"
+    },
+    "Danger-63": {
+      "$type": "color",
+      "$value": "#ca2a21",
+      "$description": "Danger color scale - step 63"
+    },
+    "Danger-65": {
+      "$type": "color",
+      "$value": "#be2920",
+      "$description": "Danger color scale - step 65"
+    },
+    "Danger-67": {
+      "$type": "color",
+      "$value": "#b0281e",
+      "$description": "Danger color scale - step 67"
+    },
+    "Danger-69": {
+      "$type": "color",
+      "$value": "#a1271c",
+      "$description": "Danger color scale - step 69"
+    },
+    "Danger-71": {
+      "$type": "color",
+      "$value": "#90251b",
+      "$description": "Danger color scale - step 71"
+    },
+    "Danger-73": {
+      "$type": "color",
+      "$value": "#7e2219",
+      "$description": "Danger color scale - step 73"
+    },
+    "Danger-76": {
+      "$type": "color",
+      "$value": "#6c2016",
+      "$description": "Danger color scale - step 76"
+    },
+    "Danger-78": {
+      "$type": "color",
+      "$value": "#5b1d14",
+      "$description": "Danger color scale - step 78"
+    },
+    "Danger-8": {
+      "$type": "color",
+      "$value": "#fff5f2",
+      "$description": "Danger color scale - step 8"
+    },
+    "Danger-80": {
+      "$type": "color",
+      "$value": "#4c1a12",
+      "$description": "Danger color scale - step 80"
+    },
+    "Danger-82": {
+      "$type": "color",
+      "$value": "#3e1710",
+      "$description": "Danger color scale - step 82"
+    },
+    "Danger-84": {
+      "$type": "color",
+      "$value": "#33140d",
+      "$description": "Danger color scale - step 84"
+    },
+    "Danger-86": {
+      "$type": "color",
+      "$value": "#29120a",
+      "$description": "Danger color scale - step 86"
+    },
+    "Danger-88": {
+      "$type": "color",
+      "$value": "#210f08",
+      "$description": "Danger color scale - step 88"
+    },
+    "Danger-90": {
+      "$type": "color",
+      "$value": "#1b0b05",
+      "$description": "Danger color scale - step 90"
+    },
+    "Danger-92": {
+      "$type": "color",
+      "$value": "#140703",
+      "$description": "Danger color scale - step 92"
+    },
+    "Danger-94": {
+      "$type": "color",
+      "$value": "#0d0402",
+      "$description": "Danger color scale - step 94"
+    },
+    "Danger-96": {
+      "$type": "color",
+      "$value": "#060201",
+      "$description": "Danger color scale - step 96"
+    },
+    "Danger-98": {
+      "$type": "color",
+      "$value": "#010000",
+      "$description": "Danger color scale - step 98"
+    }
+  },
+  "Info": {
+    "Info-0": {
+      "$type": "color",
+      "$value": "#ffffff",
+      "$description": "Info color scale - step 0"
+    },
+    "Info-10": {
+      "$type": "color",
+      "$value": "#f2f5ff",
+      "$description": "Info color scale - step 10"
+    },
+    "Info-100": {
+      "$type": "color",
+      "$value": "#000000",
+      "$description": "Info color scale - step 100"
+    },
+    "Info-12": {
+      "$type": "color",
+      "$value": "#ecf1ff",
+      "$description": "Info color scale - step 12"
+    },
+    "Info-14": {
+      "$type": "color",
+      "$value": "#e5ecff",
+      "$description": "Info color scale - step 14"
+    },
+    "Info-16": {
+      "$type": "color",
+      "$value": "#dde6ff",
+      "$description": "Info color scale - step 16"
+    },
+    "Info-18": {
+      "$type": "color",
+      "$value": "#d4e0ff",
+      "$description": "Info color scale - step 18"
+    },
+    "Info-2": {
+      "$type": "color",
+      "$value": "#feffff",
+      "$description": "Info color scale - step 2"
+    },
+    "Info-20": {
+      "$type": "color",
+      "$value": "#c9d8ff",
+      "$description": "Info color scale - step 20"
+    },
+    "Info-22": {
+      "$type": "color",
+      "$value": "#bdd1ff",
+      "$description": "Info color scale - step 22"
+    },
+    "Info-24": {
+      "$type": "color",
+      "$value": "#b0c8ff",
+      "$description": "Info color scale - step 24"
+    },
+    "Info-27": {
+      "$type": "color",
+      "$value": "#a2c0ff",
+      "$description": "Info color scale - step 27"
+    },
+    "Info-29": {
+      "$type": "color",
+      "$value": "#94b8ff",
+      "$description": "Info color scale - step 29"
+    },
+    "Info-31": {
+      "$type": "color",
+      "$value": "#87b1ff",
+      "$description": "Info color scale - step 31"
+    },
+    "Info-33": {
+      "$type": "color",
+      "$value": "#7aabff",
+      "$description": "Info color scale - step 33"
+    },
+    "Info-35": {
+      "$type": "color",
+      "$value": "#6ea6ff",
+      "$description": "Info color scale - step 35"
+    },
+    "Info-37": {
+      "$type": "color",
+      "$value": "#62a1ff",
+      "$description": "Info color scale - step 37"
+    },
+    "Info-39": {
+      "$type": "color",
+      "$value": "#589eff",
+      "$description": "Info color scale - step 39"
+    },
+    "Info-4": {
+      "$type": "color",
+      "$value": "#fdfdff",
+      "$description": "Info color scale - step 4"
+    },
+    "Info-41": {
+      "$type": "color",
+      "$value": "#4e9aff",
+      "$description": "Info color scale - step 41"
+    },
+    "Info-43": {
+      "$type": "color",
+      "$value": "#4598ff",
+      "$description": "Info color scale - step 43"
+    },
+    "Info-45": {
+      "$type": "color",
+      "$value": "#3e96ff",
+      "$description": "Info color scale - step 45"
+    },
+    "Info-47": {
+      "$type": "color",
+      "$value": "#3a95ff",
+      "$description": "Info color scale - step 47"
+    },
+    "Info-49": {
+      "$type": "color",
+      "$value": "#3895ff",
+      "$description": "Info color scale - step 49 (base color)"
+    },
+    "Info-51": {
+      "$type": "color",
+      "$value": "#3894fe",
+      "$description": "Info color scale - step 51"
+    },
+    "Info-53": {
+      "$type": "color",
+      "$value": "#3893fb",
+      "$description": "Info color scale - step 53"
+    },
+    "Info-55": {
+      "$type": "color",
+      "$value": "#3890f7",
+      "$description": "Info color scale - step 55"
+    },
+    "Info-57": {
+      "$type": "color",
+      "$value": "#378df0",
+      "$description": "Info color scale - step 57"
+    },
+    "Info-59": {
+      "$type": "color",
+      "$value": "#3788e8",
+      "$description": "Info color scale - step 59"
+    },
+    "Info-6": {
+      "$type": "color",
+      "$value": "#fafbff",
+      "$description": "Info color scale - step 6"
+    },
+    "Info-61": {
+      "$type": "color",
+      "$value": "#3683de",
+      "$description": "Info color scale - step 61"
+    },
+    "Info-63": {
+      "$type": "color",
+      "$value": "#357cd2",
+      "$description": "Info color scale - step 63"
+    },
+    "Info-65": {
+      "$type": "color",
+      "$value": "#3474c5",
+      "$description": "Info color scale - step 65"
+    },
+    "Info-67": {
+      "$type": "color",
+      "$value": "#326cb6",
+      "$description": "Info color scale - step 67"
+    },
+    "Info-69": {
+      "$type": "color",
+      "$value": "#3063a6",
+      "$description": "Info color scale - step 69"
+    },
+    "Info-71": {
+      "$type": "color",
+      "$value": "#2e5994",
+      "$description": "Info color scale - step 71"
+    },
+    "Info-73": {
+      "$type": "color",
+      "$value": "#2b4e81",
+      "$description": "Info color scale - step 73"
+    },
+    "Info-76": {
+      "$type": "color",
+      "$value": "#27436d",
+      "$description": "Info color scale - step 76"
+    },
+    "Info-78": {
+      "$type": "color",
+      "$value": "#23395b",
+      "$description": "Info color scale - step 78"
+    },
+    "Info-8": {
+      "$type": "color",
+      "$value": "#f7f9ff",
+      "$description": "Info color scale - step 8"
+    },
+    "Info-80": {
+      "$type": "color",
+      "$value": "#1f304c",
+      "$description": "Info color scale - step 80"
+    },
+    "Info-82": {
+      "$type": "color",
+      "$value": "#1c283e",
+      "$description": "Info color scale - step 82"
+    },
+    "Info-84": {
+      "$type": "color",
+      "$value": "#182132",
+      "$description": "Info color scale - step 84"
+    },
+    "Info-86": {
+      "$type": "color",
+      "$value": "#151b27",
+      "$description": "Info color scale - step 86"
+    },
+    "Info-88": {
+      "$type": "color",
+      "$value": "#12161f",
+      "$description": "Info color scale - step 88"
+    },
+    "Info-90": {
+      "$type": "color",
+      "$value": "#0e1118",
+      "$description": "Info color scale - step 90"
+    },
+    "Info-92": {
+      "$type": "color",
+      "$value": "#090b11",
+      "$description": "Info color scale - step 92"
+    },
+    "Info-94": {
+      "$type": "color",
+      "$value": "#05060b",
+      "$description": "Info color scale - step 94"
+    },
+    "Info-96": {
+      "$type": "color",
+      "$value": "#020305",
+      "$description": "Info color scale - step 96"
+    },
+    "Info-98": {
+      "$type": "color",
+      "$value": "#010101",
+      "$description": "Info color scale - step 98"
+    }
+  },
+  "Neutral": {
+    "Neutral-0": {
+      "$type": "color",
+      "$value": "#ffffff",
+      "$description": "Neutral color scale - step 0"
+    },
+    "Neutral-10": {
+      "$type": "color",
+      "$value": "#f2f3f2",
+      "$description": "Neutral color scale - step 10"
+    },
+    "Neutral-100": {
+      "$type": "color",
+      "$value": "#000000",
+      "$description": "Neutral color scale - step 100"
+    },
+    "Neutral-12": {
+      "$type": "color",
+      "$value": "#eceded",
+      "$description": "Neutral color scale - step 12"
+    },
+    "Neutral-14": {
+      "$type": "color",
+      "$value": "#e6e7e7",
+      "$description": "Neutral color scale - step 14"
+    },
+    "Neutral-16": {
+      "$type": "color",
+      "$value": "#dee0df",
+      "$description": "Neutral color scale - step 16"
+    },
+    "Neutral-18": {
+      "$type": "color",
+      "$value": "#d5d8d7",
+      "$description": "Neutral color scale - step 18"
+    },
+    "Neutral-2": {
+      "$type": "color",
+      "$value": "#fefffe",
+      "$description": "Neutral color scale - step 2"
+    },
+    "Neutral-20": {
+      "$type": "color",
+      "$value": "#cccece",
+      "$description": "Neutral color scale - step 20"
+    },
+    "Neutral-22": {
+      "$type": "color",
+      "$value": "#c1c5c4",
+      "$description": "Neutral color scale - step 22"
+    },
+    "Neutral-24": {
+      "$type": "color",
+      "$value": "#b6bab9",
+      "$description": "Neutral color scale - step 24"
+    },
+    "Neutral-27": {
+      "$type": "color",
+      "$value": "#abafae",
+      "$description": "Neutral color scale - step 27"
+    },
+    "Neutral-29": {
+      "$type": "color",
+      "$value": "#a1a5a4",
+      "$description": "Neutral color scale - step 29"
+    },
+    "Neutral-31": {
+      "$type": "color",
+      "$value": "#989d9b",
+      "$description": "Neutral color scale - step 31"
+    },
+    "Neutral-33": {
+      "$type": "color",
+      "$value": "#909594",
+      "$description": "Neutral color scale - step 33"
+    },
+    "Neutral-35": {
+      "$type": "color",
+      "$value": "#888e8d",
+      "$description": "Neutral color scale - step 35"
+    },
+    "Neutral-37": {
+      "$type": "color",
+      "$value": "#828987",
+      "$description": "Neutral color scale - step 37"
+    },
+    "Neutral-39": {
+      "$type": "color",
+      "$value": "#7d8482",
+      "$description": "Neutral color scale - step 39"
+    },
+    "Neutral-4": {
+      "$type": "color",
+      "$value": "#fdfdfd",
+      "$description": "Neutral color scale - step 4"
+    },
+    "Neutral-41": {
+      "$type": "color",
+      "$value": "#79807e",
+      "$description": "Neutral color scale - step 41"
+    },
+    "Neutral-43": {
+      "$type": "color",
+      "$value": "#767d7b",
+      "$description": "Neutral color scale - step 43"
+    },
+    "Neutral-45": {
+      "$type": "color",
+      "$value": "#747b79",
+      "$description": "Neutral color scale - step 45"
+    },
+    "Neutral-47": {
+      "$type": "color",
+      "$value": "#727977",
+      "$description": "Neutral color scale - step 47"
+    },
+    "Neutral-49": {
+      "$type": "color",
+      "$value": "#727977",
+      "$description": "Neutral color scale - step 49 (base color)"
+    },
+    "Neutral-51": {
+      "$type": "color",
+      "$value": "#727977",
+      "$description": "Neutral color scale - step 51"
+    },
+    "Neutral-53": {
+      "$type": "color",
+      "$value": "#707775",
+      "$description": "Neutral color scale - step 53"
+    },
+    "Neutral-55": {
+      "$type": "color",
+      "$value": "#6f7573",
+      "$description": "Neutral color scale - step 55"
+    },
+    "Neutral-57": {
+      "$type": "color",
+      "$value": "#6c7271",
+      "$description": "Neutral color scale - step 57"
+    },
+    "Neutral-59": {
+      "$type": "color",
+      "$value": "#686f6d",
+      "$description": "Neutral color scale - step 59"
+    },
+    "Neutral-6": {
+      "$type": "color",
+      "$value": "#fafbfa",
+      "$description": "Neutral color scale - step 6"
+    },
+    "Neutral-61": {
+      "$type": "color",
+      "$value": "#646a69",
+      "$description": "Neutral color scale - step 61"
+    },
+    "Neutral-63": {
+      "$type": "color",
+      "$value": "#5f6564",
+      "$description": "Neutral color scale - step 63"
+    },
+    "Neutral-65": {
+      "$type": "color",
+      "$value": "#5a5f5e",
+      "$description": "Neutral color scale - step 65"
+    },
+    "Neutral-67": {
+      "$type": "color",
+      "$value": "#545957",
+      "$description": "Neutral color scale - step 67"
+    },
+    "Neutral-69": {
+      "$type": "color",
+      "$value": "#4d5150",
+      "$description": "Neutral color scale - step 69"
+    },
+    "Neutral-71": {
+      "$type": "color",
+      "$value": "#454948",
+      "$description": "Neutral color scale - step 71"
+    },
+    "Neutral-73": {
+      "$type": "color",
+      "$value": "#3d4140",
+      "$description": "Neutral color scale - step 73"
+    },
+    "Neutral-76": {
+      "$type": "color",
+      "$value": "#353837",
+      "$description": "Neutral color scale - step 76"
+    },
+    "Neutral-78": {
+      "$type": "color",
+      "$value": "#2d302f",
+      "$description": "Neutral color scale - step 78"
+    },
+    "Neutral-8": {
+      "$type": "color",
+      "$value": "#f7f7f7",
+      "$description": "Neutral color scale - step 8"
+    },
+    "Neutral-80": {
+      "$type": "color",
+      "$value": "#262828",
+      "$description": "Neutral color scale - step 80"
+    },
+    "Neutral-82": {
+      "$type": "color",
+      "$value": "#202221",
+      "$description": "Neutral color scale - step 82"
+    },
+    "Neutral-84": {
+      "$type": "color",
+      "$value": "#1b1c1c",
+      "$description": "Neutral color scale - step 84"
+    },
+    "Neutral-86": {
+      "$type": "color",
+      "$value": "#171717",
+      "$description": "Neutral color scale - step 86"
+    },
+    "Neutral-88": {
+      "$type": "color",
+      "$value": "#121313",
+      "$description": "Neutral color scale - step 88"
+    },
+    "Neutral-90": {
+      "$type": "color",
+      "$value": "#0e0e0e",
+      "$description": "Neutral color scale - step 90"
+    },
+    "Neutral-92": {
+      "$type": "color",
+      "$value": "#090909",
+      "$description": "Neutral color scale - step 92"
+    },
+    "Neutral-94": {
+      "$type": "color",
+      "$value": "#050505",
+      "$description": "Neutral color scale - step 94"
+    },
+    "Neutral-96": {
+      "$type": "color",
+      "$value": "#020202",
+      "$description": "Neutral color scale - step 96"
+    },
+    "Neutral-98": {
+      "$type": "color",
+      "$value": "#010101",
+      "$description": "Neutral color scale - step 98"
+    }
+  },
+  "Success": {
+    "Success-0": {
+      "$type": "color",
+      "$value": "#ffffff",
+      "$description": "Success color scale - step 0"
+    },
+    "Success-10": {
+      "$type": "color",
+      "$value": "#f1fef1",
+      "$description": "Success color scale - step 10"
+    },
+    "Success-100": {
+      "$type": "color",
+      "$value": "#000000",
+      "$description": "Success color scale - step 100"
+    },
+    "Success-12": {
+      "$type": "color",
+      "$value": "#ebfdec",
+      "$description": "Success color scale - step 12"
+    },
+    "Success-14": {
+      "$type": "color",
+      "$value": "#e4fce5",
+      "$description": "Success color scale - step 14"
+    },
+    "Success-16": {
+      "$type": "color",
+      "$value": "#dbfbdc",
+      "$description": "Success color scale - step 16"
+    },
+    "Success-18": {
+      "$type": "color",
+      "$value": "#d1fad3",
+      "$description": "Success color scale - step 18"
+    },
+    "Success-2": {
+      "$type": "color",
+      "$value": "#fefffe",
+      "$description": "Success color scale - step 2"
+    },
+    "Success-20": {
+      "$type": "color",
+      "$value": "#c6f8c9",
+      "$description": "Success color scale - step 20"
+    },
+    "Success-22": {
+      "$type": "color",
+      "$value": "#b9f7be",
+      "$description": "Success color scale - step 22"
+    },
+    "Success-24": {
+      "$type": "color",
+      "$value": "#abf5b2",
+      "$description": "Success color scale - step 24"
+    },
+    "Success-27": {
+      "$type": "color",
+      "$value": "#9cf3a5",
+      "$description": "Success color scale - step 27"
+    },
+    "Success-29": {
+      "$type": "color",
+      "$value": "#8df19a",
+      "$description": "Success color scale - step 29"
+    },
+    "Success-31": {
+      "$type": "color",
+      "$value": "#7fef90",
+      "$description": "Success color scale - step 31"
+    },
+    "Success-33": {
+      "$type": "color",
+      "$value": "#71ed87",
+      "$description": "Success color scale - step 33"
+    },
+    "Success-35": {
+      "$type": "color",
+      "$value": "#64ec7e",
+      "$description": "Success color scale - step 35"
+    },
+    "Success-37": {
+      "$type": "color",
+      "$value": "#57ea77",
+      "$description": "Success color scale - step 37"
+    },
+    "Success-39": {
+      "$type": "color",
+      "$value": "#4be971",
+      "$description": "Success color scale - step 39"
+    },
+    "Success-4": {
+      "$type": "color",
+      "$value": "#fdfffd",
+      "$description": "Success color scale - step 4"
+    },
+    "Success-41": {
+      "$type": "color",
+      "$value": "#3fe86c",
+      "$description": "Success color scale - step 41"
+    },
+    "Success-43": {
+      "$type": "color",
+      "$value": "#34e768",
+      "$description": "Success color scale - step 43"
+    },
+    "Success-45": {
+      "$type": "color",
+      "$value": "#2ae665",
+      "$description": "Success color scale - step 45"
+    },
+    "Success-47": {
+      "$type": "color",
+      "$value": "#24e664",
+      "$description": "Success color scale - step 47"
+    },
+    "Success-49": {
+      "$type": "color",
+      "$value": "#21e663",
+      "$description": "Success color scale - step 49 (base color)"
+    },
+    "Success-51": {
+      "$type": "color",
+      "$value": "#21e563",
+      "$description": "Success color scale - step 51"
+    },
+    "Success-53": {
+      "$type": "color",
+      "$value": "#22e362",
+      "$description": "Success color scale - step 53"
+    },
+    "Success-55": {
+      "$type": "color",
+      "$value": "#22df60",
+      "$description": "Success color scale - step 55"
+    },
+    "Success-57": {
+      "$type": "color",
+      "$value": "#23d95e",
+      "$description": "Success color scale - step 57"
+    },
+    "Success-59": {
+      "$type": "color",
+      "$value": "#24d25b",
+      "$description": "Success color scale - step 59"
+    },
+    "Success-6": {
+      "$type": "color",
+      "$value": "#fafffa",
+      "$description": "Success color scale - step 6"
+    },
+    "Success-61": {
+      "$type": "color",
+      "$value": "#25c958",
+      "$description": "Success color scale - step 61"
+    },
+    "Success-63": {
+      "$type": "color",
+      "$value": "#26be54",
+      "$description": "Success color scale - step 63"
+    },
+    "Success-65": {
+      "$type": "color",
+      "$value": "#27b24f",
+      "$description": "Success color scale - step 65"
+    },
+    "Success-67": {
+      "$type": "color",
+      "$value": "#27a54a",
+      "$description": "Success color scale - step 67"
+    },
+    "Success-69": {
+      "$type": "color",
+      "$value": "#279644",
+      "$description": "Success color scale - step 69"
+    },
+    "Success-71": {
+      "$type": "color",
+      "$value": "#26863e",
+      "$description": "Success color scale - step 71"
+    },
+    "Success-73": {
+      "$type": "color",
+      "$value": "#247537",
+      "$description": "Success color scale - step 73"
+    },
+    "Success-76": {
+      "$type": "color",
+      "$value": "#226430",
+      "$description": "Success color scale - step 76"
+    },
+    "Success-78": {
+      "$type": "color",
+      "$value": "#1f5429",
+      "$description": "Success color scale - step 78"
+    },
+    "Success-8": {
+      "$type": "color",
+      "$value": "#f6fef6",
+      "$description": "Success color scale - step 8"
+    },
+    "Success-80": {
+      "$type": "color",
+      "$value": "#1d4524",
+      "$description": "Success color scale - step 80"
+    },
+    "Success-82": {
+      "$type": "color",
+      "$value": "#1a391e",
+      "$description": "Success color scale - step 82"
+    },
+    "Success-84": {
+      "$type": "color",
+      "$value": "#172e1a",
+      "$description": "Success color scale - step 84"
+    },
+    "Success-86": {
+      "$type": "color",
+      "$value": "#142516",
+      "$description": "Success color scale - step 86"
+    },
+    "Success-88": {
+      "$type": "color",
+      "$value": "#111d12",
+      "$description": "Success color scale - step 88"
+    },
+    "Success-90": {
+      "$type": "color",
+      "$value": "#0d170d",
+      "$description": "Success color scale - step 90"
+    },
+    "Success-92": {
+      "$type": "color",
+      "$value": "#081009",
+      "$description": "Success color scale - step 92"
+    },
+    "Success-94": {
+      "$type": "color",
+      "$value": "#050a05",
+      "$description": "Success color scale - step 94"
+    },
+    "Success-96": {
+      "$type": "color",
+      "$value": "#020402",
+      "$description": "Success color scale - step 96"
+    },
+    "Success-98": {
+      "$type": "color",
+      "$value": "#010101",
+      "$description": "Success color scale - step 98"
+    }
+  },
+  "Warning": {
+    "Warning-0": {
+      "$type": "color",
+      "$value": "#ffffff",
+      "$description": "Warning color scale - step 0"
+    },
+    "Warning-10": {
+      "$type": "color",
+      "$value": "#fff8ee",
+      "$description": "Warning color scale - step 10"
+    },
+    "Warning-100": {
+      "$type": "color",
+      "$value": "#000000",
+      "$description": "Warning color scale - step 100"
+    },
+    "Warning-12": {
+      "$type": "color",
+      "$value": "#fff5e6",
+      "$description": "Warning color scale - step 12"
+    },
+    "Warning-14": {
+      "$type": "color",
+      "$value": "#fff2de",
+      "$description": "Warning color scale - step 14"
+    },
+    "Warning-16": {
+      "$type": "color",
+      "$value": "#ffeed4",
+      "$description": "Warning color scale - step 16"
+    },
+    "Warning-18": {
+      "$type": "color",
+      "$value": "#ffeac8",
+      "$description": "Warning color scale - step 18"
+    },
+    "Warning-2": {
+      "$type": "color",
+      "$value": "#fffffe",
+      "$description": "Warning color scale - step 2"
+    },
+    "Warning-20": {
+      "$type": "color",
+      "$value": "#ffe5bb",
+      "$description": "Warning color scale - step 20"
+    },
+    "Warning-22": {
+      "$type": "color",
+      "$value": "#ffdfad",
+      "$description": "Warning color scale - step 22"
+    },
+    "Warning-24": {
+      "$type": "color",
+      "$value": "#ffd99e",
+      "$description": "Warning color scale - step 24"
+    },
+    "Warning-27": {
+      "$type": "color",
+      "$value": "#ffd38e",
+      "$description": "Warning color scale - step 27"
+    },
+    "Warning-29": {
+      "$type": "color",
+      "$value": "#ffce80",
+      "$description": "Warning color scale - step 29"
+    },
+    "Warning-31": {
+      "$type": "color",
+      "$value": "#ffc973",
+      "$description": "Warning color scale - step 31"
+    },
+    "Warning-33": {
+      "$type": "color",
+      "$value": "#ffc567",
+      "$description": "Warning color scale - step 33"
+    },
+    "Warning-35": {
+      "$type": "color",
+      "$value": "#ffc15d",
+      "$description": "Warning color scale - step 35"
+    },
+    "Warning-37": {
+      "$type": "color",
+      "$value": "#ffbe53",
+      "$description": "Warning color scale - step 37"
+    },
+    "Warning-39": {
+      "$type": "color",
+      "$value": "#ffbb4b",
+      "$description": "Warning color scale - step 39"
+    },
+    "Warning-4": {
+      "$type": "color",
+      "$value": "#fffefc",
+      "$description": "Warning color scale - step 4"
+    },
+    "Warning-41": {
+      "$type": "color",
+      "$value": "#ffb944",
+      "$description": "Warning color scale - step 41"
+    },
+    "Warning-43": {
+      "$type": "color",
+      "$value": "#ffb73e",
+      "$description": "Warning color scale - step 43"
+    },
+    "Warning-45": {
+      "$type": "color",
+      "$value": "#ffb63a",
+      "$description": "Warning color scale - step 45"
+    },
+    "Warning-47": {
+      "$type": "color",
+      "$value": "#ffb537",
+      "$description": "Warning color scale - step 47"
+    },
+    "Warning-49": {
+      "$type": "color",
+      "$value": "#ffb536",
+      "$description": "Warning color scale - step 49 (base color)"
+    },
+    "Warning-51": {
+      "$type": "color",
+      "$value": "#feb436",
+      "$description": "Warning color scale - step 51"
+    },
+    "Warning-53": {
+      "$type": "color",
+      "$value": "#fbb236",
+      "$description": "Warning color scale - step 53"
+    },
+    "Warning-55": {
+      "$type": "color",
+      "$value": "#f7af35",
+      "$description": "Warning color scale - step 55"
+    },
+    "Warning-57": {
+      "$type": "color",
+      "$value": "#f0ab34",
+      "$description": "Warning color scale - step 57"
+    },
+    "Warning-59": {
+      "$type": "color",
+      "$value": "#e8a533",
+      "$description": "Warning color scale - step 59"
+    },
+    "Warning-6": {
+      "$type": "color",
+      "$value": "#fffdf9",
+      "$description": "Warning color scale - step 6"
+    },
+    "Warning-61": {
+      "$type": "color",
+      "$value": "#de9e32",
+      "$description": "Warning color scale - step 61"
+    },
+    "Warning-63": {
+      "$type": "color",
+      "$value": "#d39630",
+      "$description": "Warning color scale - step 63"
+    },
+    "Warning-65": {
+      "$type": "color",
+      "$value": "#c68d2e",
+      "$description": "Warning color scale - step 65"
+    },
+    "Warning-67": {
+      "$type": "color",
+      "$value": "#b7832c",
+      "$description": "Warning color scale - step 67"
+    },
+    "Warning-69": {
+      "$type": "color",
+      "$value": "#a77729",
+      "$description": "Warning color scale - step 69"
+    },
+    "Warning-71": {
+      "$type": "color",
+      "$value": "#956b27",
+      "$description": "Warning color scale - step 71"
+    },
+    "Warning-73": {
+      "$type": "color",
+      "$value": "#825e23",
+      "$description": "Warning color scale - step 73"
+    },
+    "Warning-76": {
+      "$type": "color",
+      "$value": "#6f5020",
+      "$description": "Warning color scale - step 76"
+    },
+    "Warning-78": {
+      "$type": "color",
+      "$value": "#5d431c",
+      "$description": "Warning color scale - step 78"
+    },
+    "Warning-8": {
+      "$type": "color",
+      "$value": "#fffbf4",
+      "$description": "Warning color scale - step 8"
+    },
+    "Warning-80": {
+      "$type": "color",
+      "$value": "#4d3819",
+      "$description": "Warning color scale - step 80"
+    },
+    "Warning-82": {
+      "$type": "color",
+      "$value": "#3f2e16",
+      "$description": "Warning color scale - step 82"
+    },
+    "Warning-84": {
+      "$type": "color",
+      "$value": "#332614",
+      "$description": "Warning color scale - step 84"
+    },
+    "Warning-86": {
+      "$type": "color",
+      "$value": "#291f11",
+      "$description": "Warning color scale - step 86"
+    },
+    "Warning-88": {
+      "$type": "color",
+      "$value": "#20180d",
+      "$description": "Warning color scale - step 88"
+    },
+    "Warning-90": {
+      "$type": "color",
+      "$value": "#191309",
+      "$description": "Warning color scale - step 90"
+    },
+    "Warning-92": {
+      "$type": "color",
+      "$value": "#130d06",
+      "$description": "Warning color scale - step 92"
+    },
+    "Warning-94": {
+      "$type": "color",
+      "$value": "#0c0803",
+      "$description": "Warning color scale - step 94"
+    },
+    "Warning-96": {
+      "$type": "color",
+      "$value": "#050301",
+      "$description": "Warning color scale - step 96"
+    },
+    "Warning-98": {
+      "$type": "color",
+      "$value": "#010100",
+      "$description": "Warning color scale - step 98"
+    }
+  }
+}
