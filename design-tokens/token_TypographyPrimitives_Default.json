@@ -1,0 +1,19 @@
+{
+  "content": {
+    "Family": {
+      "Accent": "Shentox Qliro",
+      "Base": "Inter"
+    },
+    "Weight": {
+      "Black Italic": "Black Italic",
+      "Bold Italic": "Bold Italic",
+      "Extra Bold Italic": "Extra Bold Italic",
+      "Extralight Italic": "Extra Light Italic",
+      "Light Italic": "Light Italic",
+      "Medium Italic": "Medium Italic",
+      "Regular Italic": "Italic",
+      "Semibold Italic": "Semi Bold Italic",
+      "Thin Italic": "Thin Italic"
+    }
+  }
+}
