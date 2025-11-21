@@ -1,0 +1,168 @@
+{
+  "Family": {
+    "Accent": {
+      "$type": "string",
+      "$value": "Shentox Qliro"
+    },
+    "Base": {
+      "$type": "string",
+      "$value": "Inter"
+    }
+  },
+  "Scale": {
+    "1": {
+      "$type": "number",
+      "$value": 11
+    },
+    "10": {
+      "$type": "number",
+      "$value": 22
+    },
+    "11": {
+      "$type": "number",
+      "$value": 24
+    },
+    "12": {
+      "$type": "number",
+      "$value": 28
+    },
+    "13": {
+      "$type": "number",
+      "$value": 32
+    },
+    "14": {
+      "$type": "number",
+      "$value": 36
+    },
+    "15": {
+      "$type": "number",
+      "$value": 40
+    },
+    "16": {
+      "$type": "number",
+      "$value": 44
+    },
+    "17": {
+      "$type": "number",
+      "$value": 48
+    },
+    "18": {
+      "$type": "number",
+      "$value": 56
+    },
+    "19": {
+      "$type": "number",
+      "$value": 64
+    },
+    "2": {
+      "$type": "number",
+      "$value": 12
+    },
+    "20": {
+      "$type": "number",
+      "$value": 72
+    },
+    "3": {
+      "$type": "number",
+      "$value": 13
+    },
+    "4": {
+      "$type": "number",
+      "$value": 14
+    },
+    "5": {
+      "$type": "number",
+      "$value": 15
+    },
+    "6": {
+      "$type": "number",
+      "$value": 16
+    },
+    "7": {
+      "$type": "number",
+      "$value": 17
+    },
+    "8": {
+      "$type": "number",
+      "$value": 18
+    },
+    "9": {
+      "$type": "number",
+      "$value": 20
+    }
+  },
+  "Weight": {
+    "Black": {
+      "$type": "number",
+      "$value": 900
+    },
+    "Black Italic": {
+      "$type": "string",
+      "$value": "Black Italic"
+    },
+    "Bold": {
+      "$type": "number",
+      "$value": 700
+    },
+    "Bold Italic": {
+      "$type": "string",
+      "$value": "Bold Italic"
+    },
+    "Extra Bold": {
+      "$type": "number",
+      "$value": 800
+    },
+    "Extra Bold Italic": {
+      "$type": "string",
+      "$value": "Extra Bold Italic"
+    },
+    "Extra Light": {
+      "$type": "number",
+      "$value": 200
+    },
+    "Extralight Italic": {
+      "$type": "string",
+      "$value": "Extra Light Italic"
+    },
+    "Light": {
+      "$type": "number",
+      "$value": 300
+    },
+    "Light Italic": {
+      "$type": "string",
+      "$value": "Light Italic"
+    },
+    "Medium": {
+      "$type": "number",
+      "$value": 500
+    },
+    "Medium Italic": {
+      "$type": "string",
+      "$value": "Medium Italic"
+    },
+    "Regular": {
+      "$type": "number",
+      "$value": 400
+    },
+    "Regular Italic": {
+      "$type": "string",
+      "$value": "Italic"
+    },
+    "Semibold": {
+      "$type": "number",
+      "$value": 600
+    },
+    "Semibold Italic": {
+      "$type": "string",
+      "$value": "Semi Bold Italic"
+    },
+    "Thin": {
+      "$type": "number",
+      "$value": 100
+    },
+    "Thin Italic": {
+      "$type": "string",
+      "$value": "Thin Italic"
+    }
+  }
+}
