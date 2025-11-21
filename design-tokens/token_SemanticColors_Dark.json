@@ -1,0 +1,204 @@
+{
+  "color": {
+    "Border": {
+      "Brand": {
+        "Accent": {
+          "Active": "#193228",
+          "Focus": "#e6fff5",
+          "Hover": "#2b8165",
+          "Pressed": "#34c598"
+        },
+        "Muted": {
+          "Active": "#193228",
+          "Focus": "#e6fff5",
+          "Hover": "#2b8165",
+          "Pressed": "#34c598"
+        }
+      },
+      "Danger": {
+        "Active": "#90251b",
+        "Focus": "#ffa28d",
+        "Hover": "#d52b22",
+        "Pressed": "#f12c25"
+      },
+      "Divider": {
+        "Accent": "#262828",
+        "Muted": "#262828"
+      },
+      "Info": {
+        "Active": "#2e5994",
+        "Focus": "#b0c8ff",
+        "Hover": "#3683de",
+        "Pressed": "#3893fb"
+      },
+      "Neutral": {
+        "Accent": {
+          "Active": "#262828",
+          "Focus": "#e6e7e7",
+          "Hover": "#4d5150",
+          "Pressed": "#646a69"
+        },
+        "Muted": {
+          "Active": "#1b1c1c",
+          "Focus": "#e6e7e7",
+          "Hover": "#3d4140",
+          "Pressed": "#5a5f5e"
+        }
+      },
+      "Success": {
+        "Active": "#26863e",
+        "Focus": "#abf5b2",
+        "Hover": "#25c958",
+        "Pressed": "#22e362"
+      },
+      "Warning": {
+        "Active": "#956b27",
+        "Focus": "#ffd99e",
+        "Hover": "#de9e32",
+        "Pressed": "#fbb236"
+      }
+    },
+    "PageBG": {
+      "Default": "#090909",
+      "Muted": "#171717"
+    },
+    "SurfaceBG": {
+      "Brand": {
+        "Accent": {
+          "Active": "#36ffc4",
+          "Hover": "#35deab",
+          "Pressed": "#34c598"
+        },
+        "Ghost": {
+          "Hover": "#152720",
+          "Pressed": "#1c3e31"
+        },
+        "Muted": {
+          "Active": "#193228",
+          "Hover": "#245c48",
+          "Pressed": "#2b8165"
+        }
+      },
+      "Functional": {
+        "Danger": {
+          "Accent": {
+            "Active": "#ca2a21",
+            "Hover": "#90251b",
+            "Pressed": "#6c2016"
+          },
+          "Ghost": {
+            "Hover": "#4c1a12",
+            "Pressed": "#6c2016"
+          },
+          "Muted": {
+            "Active": "#5b1d14",
+            "Hover": "#7e2219",
+            "Pressed": "#a1271c"
+          }
+        },
+        "Elevated": {
+          "Active": "#171717",
+          "Hover": "#262828",
+          "Pressed": "#353837"
+        },
+        "Info": {
+          "Accent": {
+            "Active": "#3895ff",
+            "Hover": "#3683de",
+            "Pressed": "#3474c5"
+          },
+          "Ghost": {
+            "Hover": "#1c283e",
+            "Pressed": "#23395b"
+          },
+          "Muted": {
+            "Active": "#1f304c",
+            "Hover": "#2b4e81",
+            "Pressed": "#3063a6"
+          }
+        },
+        "Success": {
+          "Accent": {
+            "Active": "#23d95e",
+            "Hover": "#27b24f",
+            "Pressed": "#279644"
+          },
+          "Ghost": {
+            "Hover": "#1a391e",
+            "Pressed": "#1f5429"
+          },
+          "Muted": {
+            "Active": "#1d4524",
+            "Hover": "#226430",
+            "Pressed": "#26863e"
+          }
+        },
+        "Warning": {
+          "Accent": {
+            "Active": "#f0ab34",
+            "Hover": "#c68d2e",
+            "Pressed": "#a77729"
+          },
+          "Ghost": {
+            "Hover": "#4d3819",
+            "Pressed": "#6f5020"
+          },
+          "Muted": {
+            "Active": "#5d431c",
+            "Hover": "#825e23",
+            "Pressed": "#a77729"
+          }
+        }
+      },
+      "Neutral": {
+        "Accent": {
+          "Active": "#f7f7f7",
+          "Hover": "#dee0df",
+          "Pressed": "#c1c5c4"
+        },
+        "Ghost": {
+          "Hover": "#202221",
+          "Pressed": "#2d302f"
+        },
+        "Muted": {
+          "Active": "#262828",
+          "Hover": "#3d4140",
+          "Pressed": "#4d5150"
+        }
+      }
+    },
+    "Text&Icon": {
+      "Functional": {
+        "Brand": "#36ffc4",
+        "Danger": "#ffa28d",
+        "Info": "#b0c8ff",
+        "Link": {
+          "Active": "#3895ff",
+          "Hover": "#357cd2",
+          "Visited": "#2e5994"
+        },
+        "Success": "#abf5b2",
+        "Warning": "#ffd99e"
+      },
+      "Neutral": {
+        "Accent": "#f7f7f7",
+        "Disabled": "#5a5f5e",
+        "Muted": "#a1a5a4",
+        "Placeholder": "#686f6d"
+      },
+      "On-SurfaceBG": {
+        "On-BrandBG": "#0e1814",
+        "On-DangerBG": "#fff5f2",
+        "On-InfoBG": "#f7f9ff",
+        "On-NeutralBG": {
+          "Accent": "#090909",
+          "Disabled": "#888e8d",
+          "Muted": "#454948",
+          "Placeholder": "#79807e"
+        },
+        "On-SuccessBG": "#0d170d",
+        "On-WarningBG": "#20180d"
+      }
+    }
+  }
+}
