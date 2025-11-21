@@ -1,0 +1,526 @@
+{
+  "Border": {
+    "Brand": {
+      "Accent": {
+        "Active": {
+          "$type": "color",
+          "$value": "{Brand.Brand-16}"
+        },
+        "Focus": {
+          "$type": "color",
+          "$value": "{Brand.Brand-76}"
+        },
+        "Hover": {
+          "$type": "color",
+          "$value": "{Brand.Brand-27}"
+        },
+        "Pressed": {
+          "$type": "color",
+          "$value": "{Brand.Brand-35}"
+        }
+      },
+      "Muted": {
+        "Active": {
+          "$type": "color",
+          "$value": "{Brand.Brand-12}"
+        },
+        "Focus": {
+          "$type": "color",
+          "$value": "{Brand.Brand-76}"
+        },
+        "Hover": {
+          "$type": "color",
+          "$value": "{Brand.Brand-22}"
+        },
+        "Pressed": {
+          "$type": "color",
+          "$value": "{Brand.Brand-33}"
+        }
+      }
+    },
+    "Danger": {
+      "Active": {
+        "$type": "color",
+        "$value": "{Danger.Danger-29}"
+      },
+      "Focus": {
+        "$type": "color",
+        "$value": "{Danger.Danger-76}"
+      },
+      "Hover": {
+        "$type": "color",
+        "$value": "{Danger.Danger-39}"
+      },
+      "Pressed": {
+        "$type": "color",
+        "$value": "{Danger.Danger-47}"
+      }
+    },
+    "Divider": {
+      "Accent": {
+        "$type": "color",
+        "$value": "{Neutral.Neutral-22}"
+      },
+      "Muted": {
+        "$type": "color",
+        "$value": "{Neutral.Neutral-16}"
+      }
+    },
+    "Info": {
+      "Active": {
+        "$type": "color",
+        "$value": "{Info.Info-29}"
+      },
+      "Focus": {
+        "$type": "color",
+        "$value": "{Info.Info-76}"
+      },
+      "Hover": {
+        "$type": "color",
+        "$value": "{Info.Info-39}"
+      },
+      "Pressed": {
+        "$type": "color",
+        "$value": "{Info.Info-47}"
+      }
+    },
+    "Neutral": {
+      "Accent": {
+        "Active": {
+          "$type": "color",
+          "$value": "{Neutral.Neutral-16}"
+        },
+        "Focus": {
+          "$type": "color",
+          "$value": "{Neutral.Neutral-76}"
+        },
+        "Hover": {
+          "$type": "color",
+          "$value": "{Neutral.Neutral-27}"
+        },
+        "Pressed": {
+          "$type": "color",
+          "$value": "{Neutral.Neutral-35}"
+        }
+      },
+      "Muted": {
+        "Active": {
+          "$type": "color",
+          "$value": "{Neutral.Neutral-12}"
+        },
+        "Focus": {
+          "$type": "color",
+          "$value": "{Neutral.Neutral-76}"
+        },
+        "Hover": {
+          "$type": "color",
+          "$value": "{Neutral.Neutral-22}"
+        },
+        "Pressed": {
+          "$type": "color",
+          "$value": "{Neutral.Neutral-33}"
+        }
+      }
+    },
+    "Success": {
+      "Active": {
+        "$type": "color",
+        "$value": "{Success.Success-29}"
+      },
+      "Focus": {
+        "$type": "color",
+        "$value": "{Success.Success-76}"
+      },
+      "Hover": {
+        "$type": "color",
+        "$value": "{Success.Success-39}"
+      },
+      "Pressed": {
+        "$type": "color",
+        "$value": "{Success.Success-47}"
+      }
+    },
+    "Warning": {
+      "Active": {
+        "$type": "color",
+        "$value": "{Warning.Warning-29}"
+      },
+      "Focus": {
+        "$type": "color",
+        "$value": "{Warning.Warning-76}"
+      },
+      "Hover": {
+        "$type": "color",
+        "$value": "{Warning.Warning-39}"
+      },
+      "Pressed": {
+        "$type": "color",
+        "$value": "{Warning.Warning-47}"
+      }
+    }
+  },
+  "PageBG": {
+    "Default": {
+      "$type": "color",
+      "$value": "{Neutral.Neutral-8}"
+    },
+    "Muted": {
+      "$type": "color",
+      "$value": "{Neutral.Neutral-12}"
+    }
+  },
+  "SurfaceBG": {
+    "Brand": {
+      "Accent": {
+        "Active": {
+          "$type": "color",
+          "$value": "{Brand.Brand-49}"
+        },
+        "Hover": {
+          "$type": "color",
+          "$value": "{Brand.Brand-59}"
+        },
+        "Pressed": {
+          "$type": "color",
+          "$value": "{Brand.Brand-63}"
+        }
+      },
+      "Ghost": {
+        "Hover": {
+          "$type": "color",
+          "$value": "{Brand.Brand-20}"
+        },
+        "Pressed": {
+          "$type": "color",
+          "$value": "{Brand.Brand-24}"
+        }
+      },
+      "Muted": {
+        "Active": {
+          "$type": "color",
+          "$value": "{Brand.Brand-22}"
+        },
+        "Hover": {
+          "$type": "color",
+          "$value": "{Brand.Brand-29}"
+        },
+        "Pressed": {
+          "$type": "color",
+          "$value": "{Brand.Brand-33}"
+        }
+      }
+    },
+    "Functional": {
+      "Danger": {
+        "Accent": {
+          "Active": {
+            "$type": "color",
+            "$value": "{Danger.Danger-63}"
+          },
+          "Hover": {
+            "$type": "color",
+            "$value": "{Danger.Danger-71}"
+          },
+          "Pressed": {
+            "$type": "color",
+            "$value": "{Danger.Danger-76}"
+          }
+        },
+        "Ghost": {
+          "Hover": {
+            "$type": "color",
+            "$value": "{Danger.Danger-16}"
+          },
+          "Pressed": {
+            "$type": "color",
+            "$value": "{Danger.Danger-20}"
+          }
+        },
+        "Muted": {
+          "Active": {
+            "$type": "color",
+            "$value": "{Danger.Danger-18}"
+          },
+          "Hover": {
+            "$type": "color",
+            "$value": "{Danger.Danger-22}"
+          },
+          "Pressed": {
+            "$type": "color",
+            "$value": "{Danger.Danger-27}"
+          }
+        }
+      },
+      "Elevated": {
+        "Active": {
+          "$type": "color",
+          "$value": "{Neutral.Neutral-2}"
+        },
+        "Hover": {
+          "$type": "color",
+          "$value": "{Neutral.Neutral-8}"
+        },
+        "Pressed": {
+          "$type": "color",
+          "$value": "{Neutral.Neutral-14}"
+        }
+      },
+      "Info": {
+        "Accent": {
+          "Active": {
+            "$type": "color",
+            "$value": "{Info.Info-71}"
+          },
+          "Hover": {
+            "$type": "color",
+            "$value": "{Info.Info-76}"
+          },
+          "Pressed": {
+            "$type": "color",
+            "$value": "{Info.Info-80}"
+          }
+        },
+        "Ghost": {
+          "Hover": {
+            "$type": "color",
+            "$value": "{Info.Info-14}"
+          },
+          "Pressed": {
+            "$type": "color",
+            "$value": "{Info.Info-20}"
+          }
+        },
+        "Muted": {
+          "Active": {
+            "$type": "color",
+            "$value": "{Info.Info-16}"
+          },
+          "Hover": {
+            "$type": "color",
+            "$value": "{Info.Info-22}"
+          },
+          "Pressed": {
+            "$type": "color",
+            "$value": "{Info.Info-27}"
+          }
+        }
+      },
+      "Success": {
+        "Accent": {
+          "Active": {
+            "$type": "color",
+            "$value": "{Success.Success-73}"
+          },
+          "Hover": {
+            "$type": "color",
+            "$value": "{Success.Success-78}"
+          },
+          "Pressed": {
+            "$type": "color",
+            "$value": "{Success.Success-82}"
+          }
+        },
+        "Ghost": {
+          "Hover": {
+            "$type": "color",
+            "$value": "{Success.Success-16}"
+          },
+          "Pressed": {
+            "$type": "color",
+            "$value": "{Success.Success-20}"
+          }
+        },
+        "Muted": {
+          "Active": {
+            "$type": "color",
+            "$value": "{Success.Success-20}"
+          },
+          "Hover": {
+            "$type": "color",
+            "$value": "{Success.Success-27}"
+          },
+          "Pressed": {
+            "$type": "color",
+            "$value": "{Success.Success-33}"
+          }
+        }
+      },
+      "Warning": {
+        "Accent": {
+          "Active": {
+            "$type": "color",
+            "$value": "{Warning.Warning-41}"
+          },
+          "Hover": {
+            "$type": "color",
+            "$value": "{Warning.Warning-57}"
+          },
+          "Pressed": {
+            "$type": "color",
+            "$value": "{Warning.Warning-61}"
+          }
+        },
+        "Ghost": {
+          "Hover": {
+            "$type": "color",
+            "$value": "{Warning.Warning-20}"
+          },
+          "Pressed": {
+            "$type": "color",
+            "$value": "{Warning.Warning-27}"
+          }
+        },
+        "Muted": {
+          "Active": {
+            "$type": "color",
+            "$value": "{Warning.Warning-22}"
+          },
+          "Hover": {
+            "$type": "color",
+            "$value": "{Warning.Warning-27}"
+          },
+          "Pressed": {
+            "$type": "color",
+            "$value": "{Warning.Warning-33}"
+          }
+        }
+      }
+    },
+    "Neutral": {
+      "Accent": {
+        "Active": {
+          "$type": "color",
+          "$value": "{Neutral.Neutral-92}"
+        },
+        "Hover": {
+          "$type": "color",
+          "$value": "{Neutral.Neutral-80}"
+        },
+        "Pressed": {
+          "$type": "color",
+          "$value": "{Neutral.Neutral-76}"
+        }
+      },
+      "Ghost": {
+        "Hover": {
+          "$type": "color",
+          "$value": "{Neutral.Neutral-12}"
+        },
+        "Pressed": {
+          "$type": "color",
+          "$value": "{Neutral.Neutral-16}"
+        }
+      },
+      "Muted": {
+        "Active": {
+          "$type": "color",
+          "$value": "{Neutral.Neutral-14}"
+        },
+        "Hover": {
+          "$type": "color",
+          "$value": "{Neutral.Neutral-18}"
+        },
+        "Pressed": {
+          "$type": "color",
+          "$value": "{Neutral.Neutral-22}"
+        }
+      }
+    }
+  },
+  "Text&Icon": {
+    "Functional": {
+      "Brand": {
+        "$type": "color",
+        "$value": "{Brand.Brand-76}"
+      },
+      "Danger": {
+        "$type": "color",
+        "$value": "{Danger.Danger-65}"
+      },
+      "Info": {
+        "$type": "color",
+        "$value": "{Info.Info-67}"
+      },
+      "Link": {
+        "Active": {
+          "$type": "color",
+          "$value": "{Info.Info-49}"
+        },
+        "Hover": {
+          "$type": "color",
+          "$value": "{Info.Info-63}"
+        },
+        "Visited": {
+          "$type": "color",
+          "$value": "{Info.Info-71}"
+        }
+      },
+      "Success": {
+        "$type": "color",
+        "$value": "{Success.Success-73}"
+      },
+      "Warning": {
+        "$type": "color",
+        "$value": "{Warning.Warning-69}"
+      }
+    },
+    "Neutral": {
+      "Accent": {
+        "$type": "color",
+        "$value": "{Neutral.Neutral-92}"
+      },
+      "Disabled": {
+        "$type": "color",
+        "$value": "{Neutral.Neutral-35}"
+      },
+      "Muted": {
+        "$type": "color",
+        "$value": "{Neutral.Neutral-71}"
+      },
+      "Placeholder": {
+        "$type": "color",
+        "$value": "{Neutral.Neutral-41}"
+      }
+    },
+    "On-SurfaceBG": {
+      "On-BrandBG": {
+        "$type": "color",
+        "$value": "{Brand.Brand-90}"
+      },
+      "On-DangerBG": {
+        "$type": "color",
+        "$value": "{Danger.Danger-8}"
+      },
+      "On-InfoBG": {
+        "$type": "color",
+        "$value": "{Info.Info-8}"
+      },
+      "On-NeutralBG": {
+        "Accent": {
+          "$type": "color",
+          "$value": "{Neutral.Neutral-8}"
+        },
+        "Disabled": {
+          "$type": "color",
+          "$value": "{Neutral.Neutral-71}"
+        },
+        "Muted": {
+          "$type": "color",
+          "$value": "{Neutral.Neutral-35}"
+        },
+        "Placeholder": {
+          "$type": "color",
+          "$value": "{Neutral.Neutral-55}"
+        }
+      },
+      "On-SuccessBG": {
+        "$type": "color",
+        "$value": "{Success.Success-8}"
+      },
+      "On-WarningBG": {
+        "$type": "color",
+        "$value": "{Warning.Warning-88}"
+      }
+    }
+  }
+}
