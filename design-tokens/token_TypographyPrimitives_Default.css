@@ -1,0 +1,13 @@
+:root {
+  --content-family-accent: Shentox Qliro;
+  --content-family-base: Inter;
+  --content-weight-black-italic: Black Italic;
+  --content-weight-bold-italic: Bold Italic;
+  --content-weight-extra-bold-italic: Extra Bold Italic;
+  --content-weight-extralight-italic: Extra Light Italic;
+  --content-weight-light-italic: Light Italic;
+  --content-weight-medium-italic: Medium Italic;
+  --content-weight-regular-italic: Italic;
+  --content-weight-semibold-italic: Semi Bold Italic;
+  --content-weight-thin-italic: Thin Italic;
+}
