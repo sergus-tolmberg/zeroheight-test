@@ -1,0 +1,11 @@
+:root {
+  --content-body-font-family: Inter;
+  --content-body-font-style-italic: Italic;
+  --content-heading-font-family: Inter;
+  --content-label-font-family: Inter;
+  --content-subheading-font-family: Inter;
+  --content-subtitle-font-family: Inter;
+  --content-title-hero-font-accent: Shentox Qliro;
+  --content-title-hero-font-base: Inter;
+  --content-title-page-font-family: Inter;
+}
