@@ -162,7 +162,7 @@
   "PageBG": {
     "Default": {
       "$type": "color",
-      "$value": "{Neutral.Neutral-8}"
+      "$value": "{Neutral.Neutral-20}"
     },
     "Muted": {
       "$type": "color",
