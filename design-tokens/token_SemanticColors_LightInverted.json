@@ -8,7 +8,7 @@
         },
         "Focus": {
           "$type": "color",
-          "$value": "{Brand.Brand-14}"
+          "$value": "{Brand.Brand-65}"
         },
         "Hover": {
           "$type": "color",
@@ -26,7 +26,7 @@
         },
         "Focus": {
           "$type": "color",
-          "$value": "{Brand.Brand-14}"
+          "$value": "{Brand.Brand-65}"
         },
         "Hover": {
           "$type": "color",
@@ -45,7 +45,7 @@
       },
       "Focus": {
         "$type": "color",
-        "$value": "{Danger.Danger-24}"
+        "$value": "{Danger.Danger-53}"
       },
       "Hover": {
         "$type": "color",
@@ -73,7 +73,7 @@
       },
       "Focus": {
         "$type": "color",
-        "$value": "{Info.Info-24}"
+        "$value": "{Info.Info-53}"
       },
       "Hover": {
         "$type": "color",
@@ -129,7 +129,7 @@
       },
       "Focus": {
         "$type": "color",
-        "$value": "{Success.Success-24}"
+        "$value": "{Success.Success-53}"
       },
       "Hover": {
         "$type": "color",
@@ -147,7 +147,7 @@
       },
       "Focus": {
         "$type": "color",
-        "$value": "{Warning.Warning-24}"
+        "$value": "{Warning.Warning-53}"
       },
       "Hover": {
         "$type": "color",
@@ -475,7 +475,7 @@
       },
       "Muted": {
         "$type": "color",
-        "$value": "{Neutral.Neutral-29}"
+        "$value": "{Neutral.Neutral-39}"
       },
       "Placeholder": {
         "$type": "color",
